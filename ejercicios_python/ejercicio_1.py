@@ -4,7 +4,7 @@ Ejercicio 1: Escribir un programa en Python que imprima el mensaje “¡Hola Mun
 """
 
 def main():
-    print("Hola, este es el ejercicio 1")
+    print("Hola mundo 👋")
 
 if __name__ == "__main__":
     main()
