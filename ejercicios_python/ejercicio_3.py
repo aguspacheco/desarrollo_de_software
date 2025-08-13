@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+Ejercicio 3. Escriba un programa con las funciones necesarias para realizar las operaciones de: suma, resta, multiplicación y división. El programa deberá llevar a cabo todas las operaciones al recibir dos parámetros numéricos durante la ejecución del mismo. Ver input(). Ejemplo: Operación suma Ingrese operador 1: 1 Ingrese operador 2: 2 Resultado: 3
+
+"""
+
 
 def sumar(a,b):
     return a + b

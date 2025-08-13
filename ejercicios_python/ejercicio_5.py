@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Ejercicio 5. Escriba un programa que permita crear una lista de 5 películas. El programa debe solicitar uno por uno los nombres de las películas junto con su año de estreno. Al finalizar la carga de datos, se deberá mostrar por pantalla una lista con los nombres de las películas ordenadas por nombre y un diccionario donde las claves sean los años de estreno y los valores sean las películas estrenadas ese año. Ejemplo: ... Ingrese nombre de pelicula: Batman inicia Ingrese año de estreno: 2008 Resultado: [“300”, “Avatar”, “Batman Inicia”, “Iron Man”, “Tropic Thunder”] {2005: “Batman Inicia”, 2006: “300”, 2008: “Tropic Thunder”, “Iron Man”}
+
+"""
 def main():
     peliculas = []
     peliculas_por_anio = {}
